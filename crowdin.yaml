@@ -1,0 +1,9 @@
+project_identifier: basictest
+api_key: 6324f0e8513b0876d9c8977fe82b3567
+base_path: /Users/tech/Code/heetch/fufufu
+files:
+  -
+    source: '/config/locales/*.yml'                                    #source files filter
+    translation: '/locales/%two_letters_code%_%original_file_name%'
+
+
